@@ -33,7 +33,7 @@ Wajib Lapor DHE-SDA : Tidak
 ```
 ## Satuan Wajib
 ```
-Tidak ada data
+Data tidak ada
 ```
 
 ## Regulasi Ekspor - Lartas Ekspor
