@@ -1,7 +1,7 @@
 # 01012100 : Pure-bred breeding animals
 
 ```
-HHS Code : 01012100
+HS Code : 01012100
 Uraian : - - Bibit
 Description : - - Pure-bred breeding animals
 ```
