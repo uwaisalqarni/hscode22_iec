@@ -31,6 +31,10 @@ PPH : 2.50 % (API) [PMK 41/PMK.010/2022]
 PPH : 7.50 % (NON-API) [PMK 41/PMK.010/2022]
 Wajib Lapor DHE-SDA : Tidak
 ```
+## Satuan Wajib
+```
+---
+```
 
 ## Regulasi Ekspor - Lartas Ekspor
 ```
