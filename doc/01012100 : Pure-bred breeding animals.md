@@ -29,6 +29,7 @@ Description : - - Pure-bred breeding animals
 BM MFN (Most Favored Nation) : 0% [PMK 26/PMK.010/2022]
 PPH : 2.50 % (API) [PMK 41/PMK.010/2022]
 PPH : 7.50 % (NON-API) [PMK 41/PMK.010/2022]
+Wajib Lapor DHE-SDA : Tidak
 ```
 
 ## Regulasi Ekspor - Lartas Ekspor
